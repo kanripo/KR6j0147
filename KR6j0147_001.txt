@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:48.383487
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:24
 #+TITLE: 最勝佛頂陀羅尼淨除業障呪經
 #+PROPERTY: CBETA_ID T19n0970
 #+PROPERTY: ID KR6j0147
